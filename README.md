@@ -17,4 +17,4 @@ A web-based scientific calculator built with HTML, CSS, and JavaScript, using `m
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/scientific-calculator.git
+   git clone https://github.com/Dcardinal042/scientific-calculator.git
